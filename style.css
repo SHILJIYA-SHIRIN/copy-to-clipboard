@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bothContainer{
+    text-align: center;
+    height: 405px;
+    margin: 10% 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+ 
+}
+.headingCopyToClipboard{
+    font-weight: 900;
+    color: rgb(95, 94, 94);
+}
+.headingCopyToClipboard h2{
+    padding-top: 25px;
+}
+.inputField
+{
+  
+  margin-top: 25px;
+    width: 450px;
+    height: 150px;
+}
+.copybtn{
+    margin-top: 45px;
+}
+.copyButton{
+    width: 75px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(31, 114, 222);
+
+}
+.copyButton:hover{
+    background-color: rgb(99, 155, 228);
+    cursor: pointer;
+}
